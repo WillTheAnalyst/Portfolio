@@ -1,4 +1,4 @@
--- Data exploration using 5 related tables:
+-- Data exploration using a relational database containing 5 tables:
 
 	-- fortune500: information on top US companies
 	-- stackoverflow: questions asked on Stack Overflow with certain tags
