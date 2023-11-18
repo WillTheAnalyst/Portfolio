@@ -1,6 +1,6 @@
 -- Data exploration using a relational database containing 5 tables:
 
-	-- fortune500: data on top US companies in 2017
+	-- fortune500: data on top US companies in 2016
 	-- stackoverflow: questions asked on Stack Overflow with certain tags
 	-- company: information on companies related to tags in stackoverflow
 	-- tag_company: links stackoverflow to company
